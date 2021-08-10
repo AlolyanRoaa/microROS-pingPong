@@ -218,14 +218,15 @@ https://user-images.githubusercontent.com/85321139/128896088-321b59ce-bde2-412b-
 ```bash
 sudo apt install git
 ```
-![gitInstallation]()
+<img src="https://github.com/AlolyanRoaa/microROS-pingPong/blob/main/images/gitInstallation.PNG" width="600">
 
 
 2- when trying to build micro-ROS tools and source them using the command `colcon build`. I needed to install colcon tool separately using the following command
 ```bash
 sudo apt install python3-colcon-common-extensions
 ```
-![colconinstallation]()
+<img src="https://github.com/AlolyanRoaa/microROS-pingPong/blob/main/images/colconinstallation.PNG" width="600">
+
 
 ## Resources
 
